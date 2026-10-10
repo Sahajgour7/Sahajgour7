@@ -87,9 +87,3 @@ Frontend practice projects focused on website structure and styling.
 <p align="center">
   <i>Learning every day. Building step by step. Improving with every project.</i>
 </p>
-
----
-
-<p align="center">
-  <i>"Learning every day. Building step by step. Improving with every project."</i>
-</p>
