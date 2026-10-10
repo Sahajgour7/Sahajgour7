@@ -90,13 +90,14 @@ Frontend practice projects focused on website structure and styling.
 
 ---
 
-## 📖 Currently Learning
+ ## 📖 Currently Learning & Improving
 
-- Data Structures and Algorithms
-- Backend development with Python and Flask
-- Databases and API integration
-- Building responsive web applications
-- AI-powered application development
+- 💻 **Programming Fundamentals** — Strengthening Python, C++, JavaScript and problem-solving skills.
+- 🌐 **Frontend Development** — Building responsive web interfaces using HTML, CSS and JavaScript.
+- ⚙️ **Application Development** — Working on interactive features, file handling and browser-based data storage.
+- 🧩 **Backend Development** — Exploring Python, Flask, APIs and database integration.
+- 🧠 **Data Structures & Algorithms** — Improving logical thinking and algorithmic problem-solving.
+- 🚀 **Project-Based Learning** — Enhancing NoteKet and building practical web applications through hands-on development.
 
 ---
 
