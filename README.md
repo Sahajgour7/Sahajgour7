@@ -12,6 +12,22 @@ I'm a student developer passionate about building useful web applications, explo
 
 ---
 
+## 🧩 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/">
+    <b>View my LeetCode profile →</b>
+  </a>
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="left">
