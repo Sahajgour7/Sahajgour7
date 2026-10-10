@@ -67,10 +67,25 @@ Frontend practice projects focused on website structure and styling.
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/Sahajgour7">
-    <img src="https://img.shields.io/badge/GitHub-Sahajgour7-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
+    <img src="https://img.shields.io/badge/GitHub-Sahajgour7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/sahaj-gour-7459153ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://leetcode.com/progress/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20Progress-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/sahaj_work7">
+    <img src="https://img.shields.io/badge/HackerRank-My%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Learning every day. Building step by step. Improving with every project.</i>
 </p>
 
 ---
