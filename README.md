@@ -15,8 +15,14 @@ I'm a student developer passionate about building useful web applications, explo
 ## 🧩 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/progress/">
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira+Code&ext=heatmap" alt="LeetCode Stats"/>
+  <a href="https://leetcode.com/u/Sahajgour/">
+    <img src="https://leetcard.jacoblin.cool/Sahajgour?theme=dark&font=Fira+Code&ext=heatmap" alt="Sahaj's LeetCode Stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sahajgour/">
+    <img src="https://img.shields.io/badge/LeetCode-View%20My%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode Profile"/>
   </a>
 </p>
 
