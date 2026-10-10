@@ -26,12 +26,6 @@ I'm a student developer passionate about building useful web applications, explo
   </a>
 </p>
 
-<p align="center">
-  <a href="https://leetcode.com/progress/">
-    <b>View my LeetCode profile →</b>
-  </a>
-</p>
-
 ---
 
 ## 💻 Programming Languages
