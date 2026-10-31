@@ -103,11 +103,12 @@ Frontend practice projects focused on website structure and styling.
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahajgour7&show_icons=true&theme=github_dark&hide_border=true" alt="Sahaj's GitHub statistics"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahajgour7&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Sahajgour7&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sahajgour7&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
+
 
 ---
 
